@@ -12,7 +12,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'acts_as_votable'
-
+gem 'simple_form'
+gem 'record_tag_helper'
 
 group :development, :test do
   gem 'byebug', platform: :mri
